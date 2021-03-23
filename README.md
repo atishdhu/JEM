@@ -18,8 +18,8 @@
 Problem statement from our chosen NGO:
 
 ```
-Lack of visibility from the general audience
-A lack of working space to organize every activity/event.
+- Lack of visibility from the general audience
+- A lack of working space to organize every activity/event.
 ```
 
 ## Aims & Objectives
@@ -30,17 +30,17 @@ encountered.
 ### Aims:-
 
 ```
-To make the NGO have more visibility in society.
-To get connected to more people as far as possible.
-To put all the resources that are connected to JEM on 1 platform
-To reach out to all the customers, investors, donors more easily through
+- To make the NGO have more visibility in society.
+- To get connected to more people as far as possible.
+- To put all the resources that are connected to JEM on 1 platform
+- To reach out to all the customers, investors, donors more easily through
 newsletters.
-To provide an online facility for recruiting new members.
+- To provide an online facility for recruiting new members.
 ```
 ## Objectives:-
 
 ```
-To make an online website for the organization so that it can connect to its
+- To make an online website for the organization so that it can connect to its
 audience more easily.
 ```
 ## Background Study
@@ -51,10 +51,10 @@ This section will make you a bit more familiar with the organization in question
 JEM(Jeunes Étudiants Musulmans)NGO :
 
 ```
-Is involved in social work
-Provides education for children without support
-Do sensitization campaign against social and moral ills of the society.
-Also involved in charity works.
+- Is involved in social work
+- Provides education for children without support
+- Do sensitization campaign against social and moral ills of the society.
+- Also involved in charity works.
 ```
 ### HISTORY OF JEUNES ÉTUDIANTS MUSULMANS
 
