@@ -13,15 +13,13 @@
 
 <a href="https://drive.google.com/uc?export=view&id=13X4fSQ_BAGCJ-b7LTTttHApO7Ip7IqzE"><img src="https://drive.google.com/uc?export=view&id=13X4fSQ_BAGCJ-b7LTTttHApO7Ip7IqzE" style="width: 500px; max-width: 100%; height: auto" title="Click for the larger version." /></a>
 
-
-
 ## Problem Statement
 
 Problem statement from our chosen NGO:
 
 ```
-❏ Lack of visibility from the general audience
-❏ A lack of working space to organize every activity/event.
+Lack of visibility from the general audience
+A lack of working space to organize every activity/event.
 ```
 
 ## Aims & Objectives
@@ -32,17 +30,17 @@ encountered.
 ### Aims:-
 
 ```
-❖ To make the NGO have more visibility in society.
-❖ To get connected to more people as far as possible.
-❖ To put all the resources that are connected to JEM on 1 platform
-❖ To reach out to all the customers, investors, donors more easily through
+To make the NGO have more visibility in society.
+To get connected to more people as far as possible.
+To put all the resources that are connected to JEM on 1 platform
+To reach out to all the customers, investors, donors more easily through
 newsletters.
-❖ To provide an online facility for recruiting new members.
+To provide an online facility for recruiting new members.
 ```
 ## Objectives:-
 
 ```
-❖ To make an online website for the organization so that it can connect to its
+To make an online website for the organization so that it can connect to its
 audience more easily.
 ```
 ## Background Study
@@ -53,10 +51,10 @@ This section will make you a bit more familiar with the organization in question
 JEM(Jeunes Étudiants Musulmans)NGO :
 
 ```
-● Is involved in social work
-● Provides education for children without support
-● Do sensitization campaign against social and moral ills of the society.
-● Also involved in charity works.
+Is involved in social work
+Provides education for children without support
+Do sensitization campaign against social and moral ills of the society.
+Also involved in charity works.
 ```
 ### HISTORY OF JEUNES ÉTUDIANTS MUSULMANS
 
@@ -82,55 +80,4 @@ empowering the youth and promoting prophetic values for the betterment of the
 society.
 
 ### Mission Statement of JEM:
-
 Empowering the Youth towards the Muhammadan Way
-
-### Core Values of JEM:
-
-1. Truthfulness: Embodiment of Al Ameen
-2. Compassion: Embodiment of the One who is Rahmat-ul-^Alameen
-3. Devotion: Through our love for Allâh and Rasoulullāh (ﷺ)
-4. Togetherness: Unity
-5. Respect
-
-
-## Analysis
-
-```
-This section provides a brief description on the functioning and the requirements for
-implementing the website. It outlines the proposed solution, the functional and non-
-functional requirements of the website.
-```
-### Proposed solution-Brief description of the website
-
-```
-The website comprises of 6 tabs on the navigation bar.Each tabs provide a
-functionality which intend to help users access certain information on the
-website.These information may be videos,photos,services or news.
-```
-### Functional Requirements
-
-1. The website shall have a UI ( User interface).
-2. The website shall allow the user to view the different tabs on it.
-3. The website shall have an about us tab.
-4. The website shall have a portfolio tab.
-5. The website shall have a services tab.
-6. The website shall have a news tab.
-
-```
-6.1.The news tab shall redirect the website to the facebook account.
-6.2..The news tab shall redirect the website to the instagram account.
-```
-7. The website shall have a contact us tab.
-
-
-8. The website shall have a google map.
-9. The website shall provide the contact information of the organisation.
-10. The website shall include videos and photos for the different events occurring in
-the ONG.
-
-### Non-Functional requirements
-
-1. The programming language used to implement the website shall be javascript.
-2. The average response time the website system between a click and the reaction
-    within the website shall be less than 0.5seconds.
