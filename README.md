@@ -33,20 +33,17 @@ encountered.
 - To make the NGO have more visibility in society.
 - To get connected to more people as far as possible.
 - To put all the resources that are connected to JEM on 1 platform
-- To reach out to all the customers, investors, donors more easily through
-newsletters.
+- To reach out to all the customers, investors, donors more easily through newsletters.
 - To provide an online facility for recruiting new members.
 ```
 ## Objectives:-
 
 ```
-- To make an online website for the organization so that it can connect to its
-audience more easily.
+- To make an online website for the organization so that it can connect to its audience more easily.
 ```
 ## Background Study
 
 This section will make you a bit more familiar with the organization in question.
-
 
 JEM(Jeunes Étudiants Musulmans)NGO :
 
