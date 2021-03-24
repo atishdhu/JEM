@@ -53,6 +53,9 @@ JEM(Jeunes Étudiants Musulmans)NGO :
 - Do sensitization campaign against social and moral ills of the society.
 - Also involved in charity works.
 ```
+### Mission Statement of JEM:
+Empowering the Youth towards the Muhammadan Way
+
 ### HISTORY OF JEUNES ÉTUDIANTS MUSULMANS
 
 Founded in January 2013, JEM’s main goal was always to promote unity under the
@@ -75,6 +78,3 @@ which is an accompaniment of underprivileged kids in their academic path. All in
 through various other projects, JEM has contributed in helping alleviating poverty,
 empowering the youth and promoting prophetic values for the betterment of the
 society.
-
-### Mission Statement of JEM:
-Empowering the Youth towards the Muhammadan Way
